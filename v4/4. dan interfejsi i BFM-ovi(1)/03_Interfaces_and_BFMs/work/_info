@@ -1,0 +1,292 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs
+vcoverage
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 11 tinyalu_pkg 0 22 8_[dPU0Ne^D:0VIN1cOB<1
+Z3 !s110 1552575348
+!i10b 1
+!s100 21@CoW6Ik7^^k6aTSG@TQ2
+IMkBcCGaUnj5LIQKcKiHE12
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 coverage_sv_unit
+S1
+R0
+Z5 w1552573487
+8coverage.sv
+Fcoverage.sv
+Z6 L0 16
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1552575348.000000
+Z9 !s107 top.sv|scoreboard.sv|coverage.sv|tester.sv|tinyalu_bfm.sv|tinyalu_pkg.sv|
+Z10 !s90 -reportprogress|300|-f|tb.f|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vscoreboard
+R1
+R2
+R3
+!i10b 1
+!s100 K5_?NPJ^;?7QnW]G8Tk:I0
+I8]@[M0B<MlBCXIhM[io;J3
+R4
+!s105 scoreboard_sv_unit
+S1
+R0
+R5
+8scoreboard.sv
+Fscoreboard.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Esingle_cycle
+Z13 w1552575449
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z16 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z17 8D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/single_cycle_add_and_xor.vhd
+Z18 FD:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/single_cycle_add_and_xor.vhd
+l0
+L18
+V__lh`86linjzHd[^Bb5770
+!s100 b<G0^^I;Q:SSg=5nDT6YZ1
+Z19 OL;C;10.5;63
+32
+Z20 !s110 1552575963
+!i10b 1
+Z21 !s108 1552575963.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/single_cycle_add_and_xor.vhd|
+Z23 !s107 D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/single_cycle_add_and_xor.vhd|
+!i113 0
+Z24 o-work work -2002 -explicit
+Z25 tExplicit 1 CvgOpt 0
+Aadd_and_xor
+R14
+R15
+R16
+DEx4 work 12 single_cycle 0 22 __lh`86linjzHd[^Bb5770
+l40
+L35
+VlYbZZ7zY9Wcm>k0E:E`:61
+!s100 nR3_hbLPo51NC;1nP>N0k3
+R19
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R24
+R25
+vtester
+R1
+R2
+R3
+!i10b 1
+!s100 C^jgM8ZiDkXCF]aFj0EYR3
+I[j;8h3UJAZ?=CMJ`_?@2n1
+R4
+!s105 tester_sv_unit
+S1
+R0
+R5
+8tester.sv
+Ftester.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ethree_cycle
+Z26 w1552575600
+R14
+R15
+R16
+R0
+Z27 8D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/three_cycle_mult.vhd
+Z28 FD:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/three_cycle_mult.vhd
+l0
+L21
+V[bO3cbHoBa^b40[ZW40mC1
+!s100 PO?Do>`T=7YHZL;R8>Na40
+R19
+32
+R20
+!i10b 1
+R21
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/three_cycle_mult.vhd|
+Z30 !s107 D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/three_cycle_mult.vhd|
+!i113 0
+R24
+R25
+Amult
+R14
+R15
+R16
+DEx4 work 11 three_cycle 0 22 [bO3cbHoBa^b40[ZW40mC1
+l41
+L37
+VdMJF4d^fn@V2m0e38jX_k2
+!s100 UndTBSMD4fi=m51118QLE2
+R19
+32
+R20
+!i10b 1
+R21
+R29
+R30
+!i113 0
+R24
+R25
+Etinyalu
+Z31 w1552575617
+R14
+R15
+R16
+R0
+8D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/tinyalu.vhd
+FD:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/tinyalu.vhd
+l0
+L18
+Vgn4;T`I>JQo<FS0lBXAMH3
+!s100 IQSjkHCU25DWoNfhGl_?11
+R19
+32
+R20
+!i10b 1
+R21
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/tinyalu.vhd|
+!s107 D:/ra207/v4/4. dan interfejsi i BFM-ovi(1)/03_Interfaces_and_BFMs/tinyalu_dut/tinyalu.vhd|
+!i113 0
+R24
+R25
+Artl
+DEx4 work 11 three_cycle 0 22 ?b?Bg9gU??:QULD5<blm`3
+DEx4 work 12 single_cycle 0 22 :Ij;_;FPLzYGNoHM36T<T3
+DEx4 work 7 tinyalu 0 22 E[:oHD5fdaY_Kk8k;2L0L3
+R14
+R15
+R16
+l89
+L40
+Vm;DC^@SUEQc^LQ`c5a=ha1
+!s100 BBH]@RRi>zBMdb;2io[;I0
+R19
+32
+!s110 1552575347
+!i10b 1
+!s108 1552575347.000000
+!s90 -reportprogress|300|-f|dut.f|
+!s107 tinyalu_dut/tinyalu.vhd|tinyalu_dut/three_cycle_mult.vhd|tinyalu_dut/single_cycle_add_and_xor.vhd|
+!i113 0
+R25
+Ftinyalu_dut/tinyalu.vhd
+8tinyalu_dut/tinyalu.vhd
+Ytinyalu_bfm
+R1
+R2
+R3
+!i10b 1
+!s100 Kmf6]9TKBUcebNI77WQo[1
+I@^AManfOZa0InCJgW0QjJ0
+R4
+!s105 tinyalu_bfm_sv_unit
+S1
+R0
+R5
+8tinyalu_bfm.sv
+Ftinyalu_bfm.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Xtinyalu_pkg
+R1
+R3
+!i10b 1
+!s100 21BfTGgWHokEX?_NQbHZB0
+I8_[dPU0Ne^D:0VIN1cOB<1
+V8_[dPU0Ne^D:0VIN1cOB<1
+S1
+R0
+R5
+8tinyalu_pkg.sv
+Ftinyalu_pkg.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vtop
+R1
+R3
+!i10b 1
+!s100 <jVCn72DY;NOaN=C<kNZ:0
+IhZoA@=6jBmzICnHbTBGEa3
+R4
+!s105 top_sv_unit
+S1
+R0
+R5
+8top.sv
+Ftop.sv
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ttop_optimized
+R3
+VLi15oBlYZgFKaCAnHAU3l3
+04 3 4 work top fast 0
+o+acc +cover=sbfec+tinyalu(rtl).
+R12
+ntop_optimized
+OL;O;10.5;63
+R0

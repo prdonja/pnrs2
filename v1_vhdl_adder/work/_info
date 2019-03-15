@@ -1,0 +1,101 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ra207/v1_vhdl_adder
+Eadder
+Z1 w1552310301
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8D:/ra207/v1_vhdl_adder/adder.vhd
+Z7 FD:/ra207/v1_vhdl_adder/adder.vhd
+l0
+L7
+VhbV]AO1QI4e2dR<kMDKF93
+!s100 JDO@@hI@;NckUf;leo8Nz1
+Z8 OL;C;10.5;63
+32
+Z9 !s110 1552310393
+!i10b 1
+Z10 !s108 1552310393.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v1_vhdl_adder/adder.vhd|
+Z12 !s107 D:/ra207/v1_vhdl_adder/adder.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 hbV]AO1QI4e2dR<kMDKF93
+l18
+L14
+Vl0E>@dfC:22Q^[]O4DZ;P3
+!s100 >fTeSWh93NZ_;?fX=U`ff3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Eadder_tb
+Z15 w1552309762
+R4
+R5
+R0
+Z16 8D:/ra207/v1_vhdl_adder/adder_tb.vhd
+Z17 FD:/ra207/v1_vhdl_adder/adder_tb.vhd
+l0
+L35
+Vb1=lQ5MQMJ]2hcBacO]S=0
+!s100 8KA1=lY`bG3oe3[[>U[j?0
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v1_vhdl_adder/adder_tb.vhd|
+Z19 !s107 D:/ra207/v1_vhdl_adder/adder_tb.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R4
+R5
+Z20 DEx4 work 8 adder_tb 0 22 b1=lQ5MQMJ]2hcBacO]S=0
+l62
+L38
+Z21 V>=@:_oUTbLT19gTjSJiGa2
+Z22 !s100 <?YG3@TU[dJ6ZYIFL0oig3
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 0
+R13
+R14
+Tadder_tb_optimized
+!s110 1552309825
+VWe:f=Q4hQT?T;IEQ]CZ6:0
+04 8 8 work adder_tb behavior 1
+o+acc +cover=sbfec+adder(rtl).
+tCvgOpt 0
+nadder_tb_optimized
+OL;O;10.5;63
+R0

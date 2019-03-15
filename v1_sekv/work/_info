@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ra207/v1_vhdl_adder
+Esemafor
+Z0 w1551455833
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/ra207/v1_sekv
+Z4 8D:/ra207/v1_sekv/semafor.vhd
+Z5 FD:/ra207/v1_sekv/semafor.vhd
+l0
+L5
+V_ON?I95@g1YmQgMg7IA9O2
+!s100 a=50ZCSZU>H30G8:Q>d1N1
+Z6 OL;C;10.5;63
+32
+Z7 !s110 1552310438
+!i10b 1
+Z8 !s108 1552310438.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v1_sekv/semafor.vhd|
+Z10 !s107 D:/ra207/v1_sekv/semafor.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 7 semafor 0 22 _ON?I95@g1YmQgMg7IA9O2
+l15
+L13
+VK9c^B<RKG9T=cH5<Sh>V22
+!s100 hn60=Xe1>7H=h0IgXbU<F2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Esemafor_tb
+Z13 w1551456018
+R1
+R2
+R3
+Z14 8D:/ra207/v1_sekv/semafor_tb.vhd
+Z15 FD:/ra207/v1_sekv/semafor_tb.vhd
+l0
+L7
+VLEj8P<T2;UTA?BL936>Wn1
+!s100 `AgO`En@Iga9HkYXMJH;T2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/ra207/v1_sekv/semafor_tb.vhd|
+Z17 !s107 D:/ra207/v1_sekv/semafor_tb.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 10 semafor_tb 0 22 LEj8P<T2;UTA?BL936>Wn1
+l37
+L10
+VRQPNB<@nUd7>0olgD?__z2
+!s100 bT?TZzHRSL9APcc=M12Nk3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12
